@@ -6,7 +6,7 @@
 public class Library {
 	private int index;
     public void someLibraryMethod() {
-        System.out.print("ppppprstrtdrp");
+        System.out.print("ppppprstrtdrpoioio");
     }
     
     public static void main(String args[]) {		
